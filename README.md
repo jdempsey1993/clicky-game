@@ -19,7 +19,7 @@ SSH:
 ```
 $ git clone git@github.com:jdempsey1993/clicky-game.git
 ```
-After cloned, change directory into the cloned repository and install npm depedencies:
+After the code is cloned, change directory into the cloned repository and install npm depedencies:
 ```
 $ npm install
 ```
