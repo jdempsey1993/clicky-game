@@ -24,7 +24,7 @@ After the code is cloned, change directory into the cloned repository and instal
 ```
 $ npm install
 ```
-App can be initalized with the following command:
+App can be initialized with the following command:
 ```
 $ npm start
 ``` 
