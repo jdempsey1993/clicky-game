@@ -3,7 +3,6 @@ A React based memory game, in which the user clicks images of Pokémon character
 
 
 [View the project here.](https://click-game1993.herokuapp.com) 
-
 ------
 
 ![Image of project](https://github.com/jdempsey1993/clicky-game/blob/master/Clicky%20Game.png)
