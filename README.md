@@ -37,5 +37,5 @@ Created with:
 * NPM
 
 Contributors:
----
+--- 
 See commit history [here.](https://github.com/jdempsey1993/clicky-game/graphs/contributors)
