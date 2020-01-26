@@ -1,5 +1,6 @@
 # Clicky Game
-A React based memory game, in which the user clicks images of Pokémon characters. As the user clicks through the images, their score increases. If the user clicks the same image twice, the game resets and the user starts again. 
+A React based memory game, in which the user clicks images of Pokémon characters. As the user clicks through the images, their score increases. If the user clicks the same image twice, the game resets and the user starts again.
+
 
 [View the project here.](https://click-game1993.herokuapp.com)
 ------
