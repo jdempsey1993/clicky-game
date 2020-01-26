@@ -28,7 +28,6 @@ App can be initialized with the following command:
 ```
 $ npm start
 ``` 
-
 Created with:
 ---
 * Javascript 
